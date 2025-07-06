@@ -1,6 +1,6 @@
-# 🎬 Movie Booking Web App
+# 🎬 Movie Ticket Booking Web App
 
-A modern, full-stack Movie Booking web application that allows users to browse movies, view showtimes, select seats, and book tickets online. Built with a focus on seamless UX, real-time interactions, and secure payments.
+A modern, full-stack Movie  Ticket Booking web application that allows users to browse movies, view showtimes, select seats, and book tickets online. Built with a focus on seamless UX, real-time interactions, and secure payments.
 
 ---
 
